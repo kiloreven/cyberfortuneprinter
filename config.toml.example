@@ -1,0 +1,8 @@
+[printer]
+devfile="/dev/ttyUSB0"
+baudrate=115200
+bytesize=8
+parity="N"
+stobits=1
+timeout=1.00
+dsrdtr=1

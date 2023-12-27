@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cyberfortuneprinter"
+version = "0.1.0"
+description = ""
+authors = ["Karl Fredrik Haugland <kfh@tla.wtf>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+escpos = "1.9"
+toml = "^0.10.2"
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.19.0"
+
