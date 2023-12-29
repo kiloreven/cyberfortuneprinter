@@ -38,7 +38,7 @@ Mess with the best, die like the rest.
 -
 This is our world now… the world of the electron and the switch, the beauty of the baud."
 -
-"Shall we play a game?
+Shall we play a game?
 -
 The only winning move is not to play.
 -
@@ -63,3 +63,15 @@ Behind every successful Coder there an even more successful De-coder to understa
 Calm water never made a good sailor.
 -
 There is no patch for stupidity.
+-
+Code = Conversation
+-
+P(A|B) = [P(A)*P(B|A)]/P(B). The rest is commentary.
+-
+When was the last time you wrote code to make someone else laugh?
+-
+A time is marked not so much by ideas that are argued about as by ideas that are taken for granted. The character of an era hangs upon what needs no defense. — Lawrence Lessig
+-
+Every generation welcomes the pirates from the last — Lawrence Lessig
+-
+Politics is that rare sport where the amateur contest is actually more interesting than the professional. — Lawrence Lessig
